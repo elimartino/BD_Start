@@ -1,0 +1,139 @@
+html * {
+    font-size: 20px;
+    font-family: Nunito, garamond;
+  }
+  
+  .link{
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid white;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid white;
+  }
+  
+  .nav_link{
+    color: #e9ddb5;
+    text-decoration: none;
+    background-color: #B23A48;
+    padding: 1px 3px 1px 3px;
+    
+  }
+  
+  body{
+    background-size: 100%;
+    background-color:#FCB9B2;
+    color:#e9ddb5;
+    margin:0 auto;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  header{
+    background-color:#8C2F39;
+    color:black;
+    border: 3px solid black;
+    align-items: center;
+  }
+  
+  h1{
+    background-color:#B23A48;
+    color:black;
+    border: 3px solid black;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h2{
+    background-color:#6EA4BF;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    border: 3px solid black;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+  }
+  
+  a{
+      text-align: center;
+  }
+  
+  main{
+    background-color: #c6ad8f;
+    color: black;
+  }
+  
+  table {
+    background-color: #B23A48;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  
+  caption{
+    background-color: #8C2F39;
+    border:  2px solid black;
+    padding: 2px;
+  }
+  
+  tr,td,th {
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  
+  form {
+    background-color: #B23A48;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 4px;
+    width: auto;
+  
+  }
+  
+  legend{
+    border: none none none solid;
+    border-color: black;
+    background-color: #B23A48;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  fieldset, label{
+    border: none;
+    background-color: #B23A48;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  input {
+    background-color: white;
+    border: none;
+    padding: 2px;
+    margin:  3px 3px 3px 3px
+  }
+  
+  button{
+    align-items:center;
+    padding: 1  px;
+    background-color: #8C2F39;
+  }
+  
