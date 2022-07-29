@@ -1,0 +1,229 @@
+html * {
+    font-size: 20px;
+    font-family: Nunito, garamond;
+  }
+  
+  .link{
+    text-decoration: none;
+    background-color: #EEEEEE;
+    color: #333333;
+    padding: 2px 6px 2px 6px;
+    border-top: 1px solid white;
+    border-right: 1px solid #333333;
+    border-bottom: 1px solid #333333;
+    border-left: 1px solid white;
+  }
+  
+  .nav_link{
+    color: #e9ddb5;
+    text-decoration: none;
+    background-color: #86563c;
+    padding: 1px 3px 1px 3px;
+    
+  }
+
+  .social_link{
+    border: 2px solid black;
+    border-radius: 4px;
+    align-items: left;
+    text-align: left;
+  }
+
+  .title_line{
+    border: 5px solid #000;
+    font-size: 30px;
+  }
+
+  .br_class{
+    
+    background-repeat: no-repeat;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .bottom_content{
+    text-align: center;
+    align-items: center;
+    color: black;
+    bottom: 0;
+    margin:0 auto;
+    padding: 10px;
+  }
+
+  .bar{
+    background-color: #e9ddb5;
+  }
+
+  .profile_image{
+    position:absolute;
+    text-align: left;
+    align-items: left;
+    float: left; 
+    margin: 0px 15px 15px 0px;
+  }
+
+  .img_blur_home {
+    background-image: url(../img/home_page.jpg);
+    width: 640px;
+    height: 639px;
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    box-shadow: 0 0 8px 8px #e9ddb5 inset;
+}
+
+.img_blur_about{
+  background-image: url(../img/rdoo.jpg);
+    width: 640px;
+    height: 960px;
+    /* you need to match the shadow color to your background or image border for the desired effect*/
+    box-shadow: 0 0 8px 8px #e9ddb5 inset;
+}
+
+.img_quote{
+  float: right;
+  color: #000;
+  font-size: 25px;
+}
+
+.img_quote_abt{
+  float: right;
+  color: #000;
+}
+
+.img_blur{
+  box-shadow: 0 0 8px 8px #e9ddb5 inset;
+  border-radius: 15%;
+}
+
+.classes_info{
+  color: #000;
+  font-size: 20px;
+}
+
+.classes_title{
+  color: #000;
+  font-size: 22px;
+}
+
+.classes_box{
+  border: 2px solid #000;
+  border-width: thin;
+}
+  
+  body{
+    background-size: 50%;
+    background-color:#776637;
+    background-image: url(../img/home_page.jpg);
+    background-repeat: no-repeat;
+    background-position: 50% 0%;
+    background: linear-gradient(90deg, #e9ddb5 50%, #fff 100%);
+    color:#e9ddb5;
+    margin:0 auto;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+  }
+  
+  header{
+    background-color:#86563c;
+    color:black;
+    border: 3px solid black;
+    align-items: center;
+  }
+  
+  h1{
+    background-color:#86563c;
+    color:black;
+    border: 3px solid black;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  h2{
+    background-color:#6EA4BF;
+    width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+    color:black;
+    border: 3px solid black;
+    align-items: center;
+    text-align: center;
+    border-radius: 4px;
+  }
+  
+  a{
+      text-align: center;
+  }
+  
+  main{
+    background-color: #c6ad8f;
+    color: black;
+  }
+  
+  table {
+    background-color: #86563c;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  caption{
+    background-color: #86563c;
+    border:  2px solid black;
+    padding: 2px;
+  }
+  
+  tr,td,th {
+    border: 2px solid black;
+    border-radius: 4px;
+  }
+  
+  form {
+    background-color: #86563c;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid black;
+    border-radius: 4px;
+    width: auto;
+  
+  }
+  
+  legend{
+    border: none none none solid;
+    border-color: black;
+    background-color: #86563c;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  fieldset, label{
+    border: none;
+    background-color: #86563c;
+    text-align: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto; 
+  }
+  
+  input {
+    background-color: white;
+    border: none;
+    padding: 2px;
+    margin:  3px 3px 3px 3px
+  }
+  
+  button{
+    align-items:center;
+    padding: 1  px;
+    background-color: #86563c;
+  }
+  
